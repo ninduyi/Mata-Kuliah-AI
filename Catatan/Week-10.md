@@ -1144,25 +1144,4 @@ Artinya model memprediksi harga rumah sekitar 850 juta.
 - Epoch, batch, dan iteration adalah konsep berbeda yang penting dipahami.
 - Model yang bagus bukan hanya bagus di training data, tetapi juga bagus pada data baru.
 
-## 41. Stop, Start, Continue
 
-### Stop
-
-- Stop menghafal istilah tanpa memahami alurnya.
-- Stop menyamakan epoch dengan iteration.
-- Stop menganggap Softmax hanya untuk dua label.
-- Stop menganggap DL selalu lebih baik dari ML.
-
-### Start
-
-- Start menggambar alur model dari input sampai output.
-- Start membedakan binary classification, multi-class classification, dan regression.
-- Start mencatat ukuran input dan output setiap layer.
-- Start mencari referensi arsitektur dari kasus yang mirip sebelum menentukan jumlah layer.
-
-### Continue
-
-- Continue membandingkan ML dan DL berdasarkan jenis data.
-- Continue memakai contoh konkret seperti image, tabular, dan klasifikasi.
-- Continue bertanya kenapa suatu layer dipakai, bukan hanya apa namanya.
-- Continue memperbaiki catatan dengan bahasa sendiri agar lebih paham.
